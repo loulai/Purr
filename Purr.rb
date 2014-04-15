@@ -27,7 +27,7 @@ purr_application
 # -v deranged
 # -v albert
 # -v pipe
-# (there are heaps more, ask Enrique. Apparently you can make it purr in a German voice.)
+# (there are heaps more; ask Enrique. Apparently you can make it purr in a German voice.)
 #
 # e.g. to change to 'whisper' voice, change line 8 to:
 # system( "say -v whisper 'purrrrr'" )
