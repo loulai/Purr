@@ -1,9 +1,8 @@
-# to run this, type in terminal:
+# to run this, type this in terminal:
 # ruby Purr.rb 
 
 def purr_application
 	
-
 	touch = gets.chomp
 
 	if touch.include? ']'
@@ -32,3 +31,5 @@ purr_application
 #
 # e.g. to change to 'whisper' voice, change line 8 to:
 # system( "say -v whisper 'purrrrr'" )
+
+# Could you modify/improve it?
