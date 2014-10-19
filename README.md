@@ -24,4 +24,4 @@ ruby Purr.rb
 ---
 Stroke away!
 
-![teehee!](pinky.png)
+![teehee!](pinky.gif)
