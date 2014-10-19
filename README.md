@@ -11,19 +11,19 @@ You'll need to clone into this repository. Do this by opening up your terminal, 
 ```
 git clone git@github.com:loulai/Purr.git 
 ```
-----
+
 Change into the directory you just cloned by typing this in your terminal and hitting enter:
 ```
 cd Purr
 ```
----
+
 Run it by typing this in your terminal and hitting enter:
 ```
 ruby Purr.rb
 ```
----
+
 Stroke away!
 
----
+
 
 ![teehee!](pinky.gif)
