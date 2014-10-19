@@ -5,15 +5,15 @@ def purr_application
 	
 	touch = gets.chomp
 
-	if touch.include? ']'
-		system( "say 'purrrrr'" )
+	if (touch.include? ']') || (touch.include? 'l') || (touch.include? '\'') 
+		system( "say 'purrrrrrrrrrrr'" )
 
 	else
-		print "\n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n" 
-		puts "\nI want to be stroked!! Silly human."
-		puts "\nInclude \"]\" in your stroke."
-		puts "\n...and end it with [ENTER]"
-		print "\n<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" 
+		print "\n============================\n" 
+		puts "Stroke me right silly human"
+		puts "Include \"]\" or \"'\"in your stroke."
+		puts "...and end it with [ENTER]"
+		print "============================" 
 
 	end
 	purr_application
