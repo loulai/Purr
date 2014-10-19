@@ -1,6 +1,6 @@
 Purr
 ====
 
-This repo contains the Ruby file for application "Purr".
+![Dr. Evil knows whats up](drevil.png)
 
-Warning: this will make your computer a lethal purring machine.
+This allows you to walk around stroking the keyboard of your laptop, and it'll purr.
