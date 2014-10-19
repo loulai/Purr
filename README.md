@@ -14,7 +14,7 @@ git clone git@github.com:loulai/Purr.git
 ----
 Change into the directory you just cloned by typing this in your terminal and hitting enter:
 ```
-cd Purr.rb
+cd Purr
 ```
 ---
 Run it by typing this in your terminal and hitting enter:
