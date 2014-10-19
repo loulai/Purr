@@ -22,8 +22,9 @@ Run it by typing this in your terminal and hitting enter:
 ruby Purr.rb
 ```
 
-Stroke away!
+Stroke your keyboard from left to right. Make sure you hit enter at the end of your stroke.
 
+Happy stroking!
 
 
 ![teehee!](pinky.gif)
