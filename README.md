@@ -3,7 +3,8 @@ Purr
 
 ![Dr evil knows whats up](drevil.png)
 
-This allows you to walk around stroking the keyboard of your laptop, and it'll purr. Works only on Macs.
+This allows you to walk around stroking the keyboard of your laptop, and it'll purr. 
+Works on Macs only.
 
 How to run Purr
 ====
@@ -22,6 +23,6 @@ Run it by typing this in your terminal and hitting enter:
 ruby Purr.rb
 ```
 
-Stroke your keyboard from left to right. The key `'` or `]` must be included, and you must hit `enter` at the end of your stroke.Happy stroking!
+Stroke your keyboard from left to right. The key `'` or `]` must be included, and you must hit `enter` at the end of your stroke. Happy stroking!
 
 ![teehee!](pinky.gif)
