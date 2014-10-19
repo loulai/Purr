@@ -12,15 +12,6 @@ How to run Purr
 git clone git@github.com:loulai/Purr.git 
 ```
 
-If successful, your terminal should display something like this (no need to type this in):
-```
-Cloning into 'Purr'...
-remote: Counting objects: XX, done.
-remote: Total XX (delta 0), reused 0 (delta 0)
-Unpacking objects: 100% (XX/XX), done.
-Checking connectivity... done.
-```
-
 2. Now change into the directory you just cloned by typing this in your terminal and hitting enter:
 ```
 cd Purr.rb
