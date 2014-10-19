@@ -8,7 +8,8 @@ This allows you to walk around stroking the keyboard of your laptop, and it'll p
 How to run Purr
 ====
 1. Open up your terminal and type this:
-```git@github.com:loulai/Purr.git
+```
+git@github.com:loulai/Purr.git
 ```
 
 If successful, your terminal should display something like this (no need to type this in):
