@@ -12,13 +12,16 @@ You'll need to clone into this repository. Do this by opening up your terminal, 
 git clone git@github.com:loulai/Purr.git 
 ```
 ----
-Now change into the directory you just cloned by typing this in your terminal and hitting enter:
+Change into the directory you just cloned by typing this in your terminal and hitting enter:
 ```
 cd Purr.rb
 ```
 ---
-Now run it by typing this in your terminal and hitting enter:
+Run it by typing this in your terminal and hitting enter:
 ```
 ruby Purr.rb
 ```
 ---
+Stroke away!
+
+![teehee!](pinky.png)
