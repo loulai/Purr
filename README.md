@@ -9,11 +9,12 @@ How to run Purr
 ====
 1. Open up your terminal and type this:
 ```
-git@github.com:loulai/Purr.git
+git clone git@github.com:loulai/Purr.git
 ```
 
 If successful, your terminal should display something like this (no need to type this in):
-```Cloning into 'Purr'...
+```
+Cloning into 'Purr'...
 remote: Counting objects: XX, done.
 remote: Total XX (delta 0), reused 0 (delta 0)
 Unpacking objects: 100% (XX/XX), done.
