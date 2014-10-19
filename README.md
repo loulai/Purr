@@ -8,7 +8,6 @@ Works on Macs only.
 
 How to run Purr
 ====
-![Cat getting stroked by leek](catleek.gif)
 
 You'll need to clone into this repository. Do this by opening up your terminal, typing this in and hitting enter:
 ```
