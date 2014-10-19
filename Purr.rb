@@ -11,7 +11,7 @@ def purr_application
 	else
 		print "\n============================\n" 
 		puts "Stroke me right silly human"
-		puts "Include \"]\" or \"'\"in your stroke."
+		puts "Include \"'\" or \"]\" in your stroke."
 		puts "...and end it with [ENTER]"
 		print "============================" 
 
@@ -21,15 +21,14 @@ def purr_application
 end
 purr_application
 
-# Here are some voices. Place them between ("say) and ('purrrrr'") in line 8.
+# You can change the purring voice.
+# For example, to change to 'whisper' voice, change line 8 to:
+# system( "say -v whisper 'purrrrr'" )
 #
+# Here are some more voices:
 # -v whisper
 # -v deranged
 # -v albert
 # -v pipe
-# (there are heaps more; ask Enrique. Apparently you can make it purr in a German voice.)
-#
-# e.g. to change to 'whisper' voice, change line 8 to:
-# system( "say -v whisper 'purrrrr'" )
+# (Did you know you can make it purr in a German voice?)
 
-# Could you modify/improve it?
